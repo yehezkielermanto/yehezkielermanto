@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
-- 👨‍🎓️ I’m alumnus from Darma Cendika Catholic University, Informatics majors
-- 💻️ I’m currently learning machine learning, web development, and cyber security
+- 👨‍🎓️ I'm an alumnus of Darma Cendika Catholic University, Informatics majors
+- 💻️ I am currently studying machine learning, web development, and cyber security.
 
 **Have Worked in:**
 <p>
